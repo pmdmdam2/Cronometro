@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Restart</string>
+    <string name="auto_reset_base_time">Auto Reset Time</string>
+    <string name="count_down_timer">Count Down</string>
+</resources>
