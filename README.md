@@ -5,4 +5,4 @@ Ejemplo en el que se muestra el funcionamiento básico del widget Chronometer de
 - 1 Cronómetro
 
 
-![Cronómetro](https://github.com/pmdmdam2/Cronometro/raw/master/app/src/main/assets/cronometro.png)
+![Cronómetro](hhttps://pmdmdam2.github.io/Cronometro/app/src/main/assets/cronometro.png)
