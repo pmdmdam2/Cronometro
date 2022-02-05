@@ -1,7 +1,6 @@
 package com.ejemplo.cronometro;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.os.SystemClock;
 import android.view.View;
